@@ -2,7 +2,7 @@
 
 ## 실행환경
 1. Java 17
-2. spring boot 
+2. spring boot 3.4.4
 3. Redis Server 
 
 Produce event to redis 
